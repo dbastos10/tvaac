@@ -14,7 +14,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Stream em directo e videos da tvAAC</summary>
-        <description>Addon da Televisao da Associacao Academica de Coimbra. Visita o site oficial - http://tv.aac.uc.pt/</description>
+        <description>Addon da Televisao da Associacao Academica de Coimbra. Visita o site oficial - http://tvaac.pt/</description>
         <platform>all</platform>
     </extension>
 </addon>
